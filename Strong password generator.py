@@ -7,7 +7,7 @@
 
 
 import random
-print("Welcome to AJAY's random password generator, go ahead & try yoursel")
+print("Welcome to AJAY's random password generator, go ahead & try yourself")
 charac = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.;',?:|+_*&^%$#@!=-"
 
 requirement = int(input ("How much passwords do you want  "))                                                                                  
